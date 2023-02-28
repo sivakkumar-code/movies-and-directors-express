@@ -1,0 +1,7 @@
+###
+GET http://localhost:3000/movies/
+Content-Type: application/json
+
+###
+GET http://localhost:3000/movies/48/
+Content-Type: application/json
